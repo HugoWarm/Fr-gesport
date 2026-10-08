@@ -121,7 +121,7 @@ else:
     print("Fel")
 
 #Fråga 9
-print("9. Man använder html, css och vad för sidor?")
+print("9. Man använder html, css och vad för webbsidor?")
 print("A) Python")
 print("B) JavaScrip")
 print("C) C#")
